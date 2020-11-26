@@ -11,6 +11,7 @@ En esta area estamos agregando sólo texto y viñetas
 - Opción 3
 - Creado por Miguel Acosta
 - Incluye ejemplos en linux, windows y mac.
+- Diponible para todas las edades 
 
 
 Aquí vamos a probar las **Negritas para resaltar un texto deseado** y aquí vamos a introducir un [link para dirigirnos a mi github](https://github.com/mike-one "link para dirigirnos a mi github")
