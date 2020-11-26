@@ -11,4 +11,4 @@ En esta area estamos agregando sólo texto y viñetas
 - Opción 3
 
 
-Aquí vamos a probar las **Negritas para resaltar un texto deseado** y aquí vamos a introducir un [link para dirigirnos a mi github](http://https://github.com/mike-one "link para dirigirnos a mi github")
+Aquí vamos a probar las **Negritas para resaltar un texto deseado** y aquí vamos a introducir un [link para dirigirnos a mi github](https://github.com/mike-one "link para dirigirnos a mi github")
