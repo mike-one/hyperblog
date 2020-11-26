@@ -5,6 +5,12 @@ hoy hablaremos de sus historial
 
 Mañana nos enfocaremos en su vida laboral
 
+<<<<<<< HEAD
 Master 2
+=======
+Experimento 1
+
+Mater1
+>>>>>>> f542aec (Experimento 1)
 
 Se agrega un fork desde miguel@atomic
